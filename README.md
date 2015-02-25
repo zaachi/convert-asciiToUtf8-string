@@ -1,1 +1,1 @@
-# function convert ascii string into utf8 string
+function convert ascii string into utf8 string
